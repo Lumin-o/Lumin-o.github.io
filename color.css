@@ -1,0 +1,18 @@
+body {
+	background: #84817a;
+}
+h1 {
+	font-family: 'Oswald', sans-serif;
+	color: #f7f1e3;
+}
+h2 {
+	font-family: 'Oswald', sans-serif;
+	color: #f7f1e3;
+}
+p { 
+	font-family: 'Oswald', sans-serif;
+	color: #f7f1e3;
+	font-size: 18px;
+	border: 4px dotted;
+
+}
