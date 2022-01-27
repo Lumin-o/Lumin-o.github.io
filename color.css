@@ -1,5 +1,7 @@
 body {
 	background: #84817a;
+	grid-template-areas: "header header header" "sidebar main main" "footer footer footer";
+	grid-template-rows: 50px 200px;
 }
 h1 {
 	font-family: 'Oswald', sans-serif;
